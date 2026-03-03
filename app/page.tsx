@@ -71,13 +71,10 @@ export default function Home() {
         background: "linear-gradient(135deg, #A171D5, #F1D2B1, #CC445C)",
       }}
     >
-      {/* Dekorasi */}
-      <div className="absolute top-10 left-10 text-6xl">🌸</div>
-      <div className="absolute bottom-10 right-10 text-6xl">🦋</div>
 
       <div className="bg-white p-10 rounded-3xl shadow-2xl w-full max-w-xl text-center">
         <h1 className="text-3xl font-bold mb-6 text-[#594C8C]">
-          Pengumuman Anggota Seri X Art
+          Pengumuman Staff Seri X Art Exhibition 2026
         </h1>
 
         <input
