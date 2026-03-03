@@ -51,7 +51,7 @@ export default function Home() {
       return (
         <p className="mt-4 italic text-[#154748] text-sm">
           🌟 Selamat! Perjalananmu baru saja dimulai. 
-          Jadilah versi terbaik dirimu dan berikan kontribusi terbaik untuk Seri X Art!
+          Jadilah versi terbaik dirimu dan berikan kontribusi terbaik untuk Seri X Art Exhibition 2026!
         </p>
       );
     }
